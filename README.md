@@ -48,3 +48,4 @@ REQ: Portal Educativo Web
 ---
 
 # Evidencia del Sprint
+![Planificador Sprint](sprint-planificador.png)
