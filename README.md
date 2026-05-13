@@ -1,4 +1,29 @@
 # Proyecto_sistema_aprendizaje_virtual
+# Equipo de Trabajo
+
+| Integrante | Rol |
+|---|---|
+| Jersson Lamilla | Administrador / Desarrollador |
+| Alejandro Zurita | Scrum Master |
+| Danny Lamilla | Product Owner |
+| Pedro Garcia | Diseñador UI |
+
+---
+
+# Responsabilidades del Equipo
+
+## Administrador / Desarrollador
+Encargado de la implementación y administración del proyecto web.
+
+## Scrum Master
+Responsable de coordinar y supervisar el proceso Scrum.
+
+## Product Owner
+Responsable de definir y priorizar los requerimientos del producto.
+
+## Diseñador UI
+Encargado del diseño visual e interfaz de usuario del sistema.
+
 
 ## Requerimiento
 Req. Portal Educativo Web
