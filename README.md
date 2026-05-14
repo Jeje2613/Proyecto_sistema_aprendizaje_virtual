@@ -66,6 +66,37 @@ REQ: Portal Educativo Web
 - Desarrollar la estructura base de la pagina de inicio
 - Adaptar la interfaz del sitio web a dispositivos móviles y de escritorio
 
+# Desarrollo de Tareas
+
+## Tarea en progreso
+Desarrollar la estructura base de la pagina de inicio.
+
+### Estado
+En progreso
+
+---
+
+## Tarea pendiente
+Adaptar la interfaz del sitio web a dispositivos móviles y de escritorio.
+
+### Estado
+Por hacer
+
+---
+
+# Tablero Kanban del Sprint
+
+El tablero Kanban permite visualizar el estado de las tareas del Sprint mediante las columnas:
+- Por hacer
+- En progreso
+- En prueba
+- Terminado
+
+Actualmente:
+- 1 tarea se encuentra en progreso
+- 1 tarea se encuentra pendiente
+
+
 ---
 # Evidencia del Equipo de Trabajo
 
@@ -79,3 +110,7 @@ REQ: Portal Educativo Web
 # Evidencia del Sprint
 
 ![Planificador Sprint](sprint-planificador.png)
+
+# Evidencia del Diseñador UI
+
+![Kanban Sprint](kanban-ui.png)
